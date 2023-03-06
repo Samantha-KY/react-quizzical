@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useState } from "react";
 import AnswerCard from "./AnswerCard";
 import formatHTMLUnicode from "./helpers/formatHTMLUniCode";
 
